@@ -22,18 +22,30 @@ Game Design graduate (First Class Honours, University of Southampton) based in L
 
 ### Haerenga
 
-<img width="2160" height="2160" alt="Haerenga 2160x2160 (1)" src="https://github.com/user-attachments/assets/263c6f41-1c39-4fd7-8166-7b6a6528e2ae" />
+<p align="center">
+  <img width="400" alt="Haerenga" src="https://github.com/user-attachments/assets/263c6f41-1c39-4fd7-8166-7b6a6528e2ae" />
+</p>
 
-
-https://github.com/user-attachments/assets/74cee781-8775-495e-950c-acade988e489
-
-https://github.com/user-attachments/assets/508c89c5-e5d6-47fd-a94a-72473610142d
+<table align="center">
+  <tr>
+    <td><video height="260" controls src="https://github.com/user-attachments/assets/74cee781-8775-495e-950c-acade988e489"></video></td>
+    <td><video height="260" controls src="https://github.com/user-attachments/assets/508c89c5-e5d6-47fd-a94a-72473610142d"></video></td>
+  </tr>
+</table>
 
 ### Lament
 
-https://github.com/user-attachments/assets/e0c3eb41-8a5d-4951-877c-54d833664c54
+<p align="center">
+  <video width="600" controls src="https://github.com/user-attachments/assets/e0c3eb41-8a5d-4951-877c-54d833664c54"></video>
+</p>
 
-<img width="1625" height="908" alt="LamentGameplay_4" src="https://github.com/user-attachments/assets/ca6026a0-84a6-4fbf-9afc-cf71624b2868" />
-<img width="2417" height="1327" alt="LamentGameplay_3" src="https://github.com/user-attachments/assets/f0ca6567-0a82-4797-b44a-6068dc442e42" />
-<img width="1632" height="911" alt="LamentGameplay_2" src="https://github.com/user-attachments/assets/5372302c-c912-41b2-a632-cf716427e62e" />
-<img width="2453" height="1344" alt="LamentGameplay_1" src="https://github.com/user-attachments/assets/d2b86cfa-b0ff-4c15-8e70-332f9343bb50" />
+<table align="center">
+  <tr>
+    <td><img height="200" alt="LamentGameplay_1" src="https://github.com/user-attachments/assets/d2b86cfa-b0ff-4c15-8e70-332f9343bb50" /></td>
+    <td><img height="200" alt="LamentGameplay_2" src="https://github.com/user-attachments/assets/5372302c-c912-41b2-a632-cf716427e62e" /></td>
+  </tr>
+  <tr>
+    <td><img height="200" alt="LamentGameplay_3" src="https://github.com/user-attachments/assets/f0ca6567-0a82-4797-b44a-6068dc442e42" /></td>
+    <td><img height="200" alt="LamentGameplay_4" src="https://github.com/user-attachments/assets/ca6026a0-84a6-4fbf-9afc-cf71624b2868" /></td>
+  </tr>
+</table>
