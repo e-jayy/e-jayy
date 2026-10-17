@@ -35,15 +35,15 @@ Game Design graduate (First Class Honours, University of Southampton) based in L
 
 ### Lament
 
-https://github.com/user-attachments/assets/e0c3eb41-8a5d-4951-877c-54d833664c54
-
 <table align="center">
   <tr>
-    <td><img height="200" alt="LamentGameplay_1" src="https://github.com/user-attachments/assets/d2b86cfa-b0ff-4c15-8e70-332f9343bb50" /></td>
-    <td><img height="200" alt="LamentGameplay_2" src="https://github.com/user-attachments/assets/5372302c-c912-41b2-a632-cf716427e62e" /></td>
+    <td><img height="350" alt="LamentGameplay_1" src="https://github.com/user-attachments/assets/d2b86cfa-b0ff-4c15-8e70-332f9343bb50" /></td>
+    <td><img height="350" alt="LamentGameplay_2" src="https://github.com/user-attachments/assets/5372302c-c912-41b2-a632-cf716427e62e" /></td>
   </tr>
   <tr>
-    <td><img height="200" alt="LamentGameplay_3" src="https://github.com/user-attachments/assets/f0ca6567-0a82-4797-b44a-6068dc442e42" /></td>
-    <td><img height="200" alt="LamentGameplay_4" src="https://github.com/user-attachments/assets/ca6026a0-84a6-4fbf-9afc-cf71624b2868" /></td>
+    <td><img height="350" alt="LamentGameplay_3" src="https://github.com/user-attachments/assets/f0ca6567-0a82-4797-b44a-6068dc442e42" /></td>
+    <td><img height="350" alt="LamentGameplay_4" src="https://github.com/user-attachments/assets/ca6026a0-84a6-4fbf-9afc-cf71624b2868" /></td>
   </tr>
 </table>
+
+https://github.com/user-attachments/assets/e0c3eb41-8a5d-4951-877c-54d833664c54
