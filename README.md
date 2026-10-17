@@ -35,9 +35,7 @@ Game Design graduate (First Class Honours, University of Southampton) based in L
 
 ### Lament
 
-<p align="center">
-  <video width="600" controls src="https://github.com/user-attachments/assets/e0c3eb41-8a5d-4951-877c-54d833664c54"></video>
-</p>
+https://github.com/user-attachments/assets/e0c3eb41-8a5d-4951-877c-54d833664c54
 
 <table align="center">
   <tr>
