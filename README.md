@@ -16,11 +16,11 @@ Game Design graduate (First Class Honours, University of Southampton) based in L
 
 ## Projects
 
-[Lament](https://github.com/e-jayy/lament) — 2D rogue-lite, second year project. Designed and programmed a procedurally generated dungeon system and a skill tree system with prerequisite logic, in a team of five.
-[Haerenga](https://github.com/e-jayy/Haerenga) — Final major project, 2D Precision platformer with puzzle-based progression, built with [Paula Vales](https://www.linkedin.com/in/paula-vales-b26940338/).
-[MCSR Split Stats](https://e-jayy.github.io/mcsr-split-stats/) — A small web tool for tracking Minecraft speedrun split statistics, Built with AI-assisted development.
+- [Lament](https://github.com/e-jayy/lament) — 2D rogue-lite, second year project. Designed and programmed a procedurally generated dungeon system and a skill tree system with prerequisite logic, in a team of five.
+- [Haerenga](https://github.com/e-jayy/Haerenga) — Final major project, 2D Precision platformer with puzzle-based progression, built with [Paula Vales](https://www.linkedin.com/in/paula-vales-b26940338/).
+- [MCSR Split Stats](https://e-jayy.github.io/mcsr-split-stats/) — A small web tool for tracking Minecraft speedrun split statistics, Built with AI-assisted development.
 
-#Lament
+# Lament
 
 https://github.com/user-attachments/assets/e0c3eb41-8a5d-4951-877c-54d833664c54
 
@@ -32,5 +32,10 @@ https://github.com/user-attachments/assets/e0c3eb41-8a5d-4951-877c-54d833664c54
 
 # Haerenga
 
+<img width="2160" height="2160" alt="Haerenga 2160x2160 (1)" src="https://github.com/user-attachments/assets/263c6f41-1c39-4fd7-8166-7b6a6528e2ae" />
+
+
 https://github.com/user-attachments/assets/74cee781-8775-495e-950c-acade988e489
+
+https://github.com/user-attachments/assets/508c89c5-e5d6-47fd-a94a-72473610142d
 
