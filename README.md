@@ -17,6 +17,10 @@ Game Design graduate (First Class Honours, University of Southampton) based in L
 ## Projects
 
 [Lament](https://github.com/e-jayy/lament) — 2D rogue-lite, second year project. Designed and programmed a procedurally generated dungeon system and a skill tree system with prerequisite logic, in a team of five.
+[Haerenga](https://github.com/e-jayy/Haerenga) — Final major project, 2D Precision platformer with puzzle-based progression, built with [Paula Vales](https://www.linkedin.com/in/paula-vales-b26940338/).
+[MCSR Split Stats](https://e-jayy.github.io/mcsr-split-stats/) — A small web tool for tracking Minecraft speedrun split statistics, Built with AI-assisted development.
+
+#Lament
 
 https://github.com/user-attachments/assets/e0c3eb41-8a5d-4951-877c-54d833664c54
 
@@ -26,10 +30,7 @@ https://github.com/user-attachments/assets/e0c3eb41-8a5d-4951-877c-54d833664c54
 <img width="2453" height="1344" alt="LamentGameplay_1" src="https://github.com/user-attachments/assets/d2b86cfa-b0ff-4c15-8e70-332f9343bb50" />
 
 
-[Haerenga](https://github.com/e-jayy/Haerenga) — Final major project, 2D Precision platformer with puzzle-based progression, built with [Paula Vales](https://www.linkedin.com/in/paula-vales-b26940338/).
+# Haerenga
 
 https://github.com/user-attachments/assets/74cee781-8775-495e-950c-acade988e489
 
-
-
-[MCSR Split Stats](https://e-jayy.github.io/mcsr-split-stats/) — A small web tool for tracking Minecraft speedrun split statistics, Built with AI-assisted development.
